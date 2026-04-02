@@ -1,9 +1,8 @@
 /*Escreva um programa que peça para o usuário digitar 5 números inteiros. No final, o programa deve mostrar:*/
-float a,b,c,d,e;
 #include <iostream>
 using namespace std;
 int main (){
-int num = 0;
+int a,b,c,d,e;
 cin >> a,b,c,d,e;
 for(int valor = 2;valor <= a,b,c,d,e; valor +=2){
 cout << "Numero Par:" << valor << endl;
