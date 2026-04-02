@@ -1,5 +1,13 @@
 /*Escreva um programa que peça para o usuário digitar 5 números inteiros. No final, o programa deve mostrar:*/
-
+float int 1,2,3,4,5;
 #include <iostream>
 using namespace std;
 int main (){
+int num = O;
+cin >> 1,2,3,4,5;
+for(int valor = 2;valor <= 1,2,3,4,5; valor +=2){
+cout << "Numero Par:" << valor << endl;
+}
+
+return 0;
+}
