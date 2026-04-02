@@ -3,7 +3,7 @@
 using namespace std;
 int main (){
 int a,b,c,d,e;
-cin >> a,b,c,d,e;
+cin >> a >> b >> c >> d >> e;
 for(int valor = 2;valor <= a,b,c,d,e; valor +=2){
 cout << "Numero Par:" << valor << endl;
 }
